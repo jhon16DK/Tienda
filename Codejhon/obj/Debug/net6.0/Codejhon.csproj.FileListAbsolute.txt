@@ -1,0 +1,15 @@
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\Codejhon.exe
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\Codejhon.deps.json
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\Codejhon.runtimeconfig.json
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\Codejhon.dll
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\ref\Codejhon.dll
+C:\Users\War_Machine\Desktop\Codejhon\bin\Debug\net6.0\Codejhon.pdb
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.csproj.AssemblyReference.cache
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.AssemblyInfoInputs.cache
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.AssemblyInfo.cs
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.csproj.CoreCompileInputs.cache
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.dll
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\ref\Codejhon.dll
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.pdb
+C:\Users\War_Machine\Desktop\Codejhon\obj\Debug\net6.0\Codejhon.genruntimeconfig.cache
